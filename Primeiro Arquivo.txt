@@ -1,0 +1,5 @@
+Arquivo alterado
+Testando
+se essas linhas
+serão add ao git
+após o commit e git add
